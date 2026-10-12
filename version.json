@@ -1,0 +1,10 @@
+{
+  "version": "3.38.1",
+  "url": "https://raw.githubusercontent.com/daviloza-soft/actualizaciones/main/actualizacion_3.38.1.zip",
+  "bytes": 373775,
+  "sha256": "d0bd521e863326829397b360c371a0c15ae41ad99fcb76d44e176efd906fe761",
+  "firma": "D/wAia4sM8XoJG3GR9zyY39HoHNlWXxQVm/DxbNE3EgDBRP7zlxkrbEGzXOCkWYkEWDs2GZObx/evcJwCTu49hsuV/o7okvA8JQOAbSBzj6og6GZjabTN4cZFMX8Lj0+6UCSwvfVDMHWkQLHzLWXfNBXcdA9S4GYQeJs5r4zGToJJ5mEWsSwR+oi4X6YYmj/4Ns6DBljmj+j3ZxWSRw8Y5M94axB4eK036WP2+T97WuPGWvmEcL5HPspcrvGrXZF/heFymuu7ovocJ+8SgZP0YLHD5LbqV6addHf9w+3lmUzbTajdWX9yojSTE2LTz5uhxXRCSyPEj5uOS5ALQnyIg==",
+  "notas": "Mejoras en la actualizacion automatica: el sistema se reinicia solo con la version nueva y avisa al instante.",
+  "obligatoria": false,
+  "tamano_kb": 365
+}
